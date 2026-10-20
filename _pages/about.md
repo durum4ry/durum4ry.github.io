@@ -7,7 +7,11 @@ toc_sticky: true
 ---
 
 # Education and Experience
-- 2023.03 ~ 2023.05 &emsp; K-Shield Jr.10  
+- 2025.07 ~ 2026.02 &emsp; Best of the Best(BoB) 14th (KITRI→KISA)
+<br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Vulnerability Analysis Track
+- 2024.12 ~ 2025.02 &emsp; GMDSOFT
+<br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Cybersecurity Specialist Intern
+- 2023.03 ~ 2023.05 &emsp; K-Shield Jr.10 (KISEC)
 - 2022 ~ 2024.02 &emsp; GNU. Augmented Intelligence Lab
 <br> &ensp; &emsp; &emsp; &emsp; &emsp; &ensp; &ensp; Research Intern <https://ailab.gnu.ac.kr/>
 - 2019.01 ~ 2020.11 &emsp; Republic of Korea Air Force
@@ -23,6 +27,8 @@ toc_sticky: true
 - Network Advisor Grade Ⅱ &nbsp; (네트워크관리사 2급)
 
 # Projects
+- 2025.10 ~ 2026.01 Vulnerability Research on Qualcomm TrustZone (QSEE) Trusted Applications (TA) (Team Noonchi)
+<br> &ensp; &emsp; &emsp; Best of the Best(BoB) 14th (KITRI→KISA)
 - 2023.06.01 ~ 2024.01.31 현실 세계를 축소한 디오라마 상에 현실 세계의 실시간 정보를 증강하는 증강현실 시스템 개발 (연구책임자: 이수원 교수님)
 <br> &ensp; &emsp; &emsp; 울산·경남지역혁신플랫폼(USG) 스마트제조ICT사업단
 - 2022.08.01 ~ 2023.02.15 CovidHunter: 코로나 종식 기원 증강현실 디펜스 게임 (연구책임자: 이수원 교수님)
